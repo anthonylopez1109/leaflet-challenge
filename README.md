@@ -1,4 +1,4 @@
-# Earthquake Visualization Tool
+# leaflet challenge
 Overview
 The United States Geological Survey (USGS) collects a vast amount of data about natural hazards, including earthquake occurrences, around the world. However, the data is difficult to interpret without meaningful visualization tools. This project aims to create a dynamic and interactive map that visualizes earthquake data collected by the USGS, allowing users to better understand the magnitude, depth, and location of recent earthquakes. This tool will be valuable for educating the public, government organizations, and researchers, ultimately supporting USGS efforts in addressing global challenges related to natural disasters.
 
